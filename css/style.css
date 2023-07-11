@@ -1,0 +1,15 @@
+.hidden {
+  display: none;
+}
+
+.date {
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  font-weight: bolder;
+}
+#quotes {
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  font-weight: bolder;
+}
