@@ -36,7 +36,6 @@ function paintToDo(newToDo) {
   li.appendChild(span);
   li.appendChild(button);
   li.classList.add("list-group-item");
-  li.classList.add("justify-content-md-end");
   toDoList.appendChild(li);
 }
 
